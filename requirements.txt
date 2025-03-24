@@ -1,0 +1,11 @@
+streamlit
+fastapi
+uvicorn
+transformers
+gtts
+requests
+beautifulsoup4
+googlesearch-python
+python-dotenv
+torch
+yake
